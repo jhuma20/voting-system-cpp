@@ -1,0 +1,38 @@
+
+   WELCOME TO SIMPLE VOTING SYSTEM PROJECT  
+
+              UCET HAZARIBAGH
+
+--------------------------------------------------------
+
+ |        1st Year        |     2nd year             |
+
+ |        3rd Year        |     4th year             |
+
+---------------------------------------------------------
+
+ [press 1 to vote for 1st year]               [press 2 to vote for 2nd year]
+ 
+ [press 3 to vote for 3rd year]               [press 4 to vote for 4th year]
+ 
+                     [ press 5 to see the result :)]
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 1
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 1
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 1
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 1
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 2
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 2
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 3
+PLEASE CHOOSE ONE OF THE ABOVE OPTION :- 5
+
+--------------------------------------------------
+
+     1ST Year WON the election   
+
+    Total vote of 1st Year : 4
+
+   1ST Year  won by 4 votes to secondyear
+   1ST Year won by 3 votes to thirdyear
+   1st Year  won by 3 votes to forthyear
+
+-------------------------------------------------------------
